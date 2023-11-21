@@ -22,7 +22,9 @@ This web app is designed to be responsive, ensuring a seamless user experience a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/src/assets/screenshots/localhost_5173_.png)
+![App Screenshot](/src/assets/screenshots/localhost_5173_%20(2).png)
+![App Screenshot](/src/assets/screenshots/localhost_5173_%20(3).png)
 
 ## Getting Started
 
